@@ -59,7 +59,7 @@
         
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right oh">
-                        <li><a href="~/home.aspx" runat="server" class="nav-work visible-xs">Home</a></li>
+                        <li><a href="~/home.aspx" runat="server" class="nav-work visible-xs">caca</a></li>
                         <li><a href="~/work.aspx" runat="server" class="nav-work">Work</a></li>
                         <li><a href="~/photography.aspx" runat="server" class="nav-work">Photography</a></li>
                         <li><a href="~/resume.aspx" runat="server" class="nav-resume">Resume</a></li>
